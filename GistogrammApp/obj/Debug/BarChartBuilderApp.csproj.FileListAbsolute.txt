@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilder.BarChartBuilderForm.resources
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilderApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilderApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\bin\Debug\BarChartBuilder.exe.config
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\bin\Debug\BarChartBuilder.exe
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\bin\Debug\BarChartBuilder.pdb
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilder.Properties.Resources.resources
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilder.exe
+C:\Users\User\Desktop\GistogrammApp\GistogrammApp\obj\Debug\BarChartBuilder.pdb
